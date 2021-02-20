@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "title": "Vegetable Pulav",
+      "category": "Vegetarian/Rice",
+      "price": "149",
+      "tags": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae, eveniet?"
+    },
+    {
+      "id": 2,
+      "title": "Mushroom Rice",
+      "category": "Vegetarian/Rice",
+      "price": "159",
+      "tags": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae, eveniet?"
+    },
+  
+    {
+      "id": 3,
+      "title": "Paneer Dosa",
+      "category": "Vegetarian/Breakfast ",
+      "price": "125",
+      "tags": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae, eveniet?"
+    },
+    {
+      "id": 4,
+      "title": "Chicken Tikka",
+      "category": "Non Vegetarian/Tandoori",
+      "price": "200",
+      "tags": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae, eveniet?"
+    },
+    {
+      "id": 5,
+      "title": "Fish Fingers",
+      "category": "Non Vegetarian/Starters",
+      "price": "250",
+      "tags": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae, eveniet?"
+    },
+    {
+      "id": 6,
+      "title": "Falooda",
+      "category": "Desserts",
+      "price": "120",
+      "tags": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae, eveniet?"
+    },
+    {
+      "id": 7,
+      "title": "Chicken 65",
+      "category": "Non Vegetarian/Starters",
+      "price": "200",
+      "tags": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae, eveniet?"
+    },
+    {
+      "id": 8,
+      "title": "Onion Cheese Maggi",
+      "category": "Vegetarian/Noodles",
+      "price": "80",
+      "tags": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae, eveniet?"
+    },
+    {
+      "id": 9,
+      "title": "Chicken Noodles",
+      "category": "Non Vegetarian/Noodles",
+      "price": "190",
+      "tags": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae, eveniet?"
+    },
+    {
+      "id": 10,
+      "title": "Gulab Jamun",
+      "category": "Desserts",
+      "price": "120",
+      "tags": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae, eveniet?"
+    }
+]

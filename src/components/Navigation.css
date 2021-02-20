@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap");
+
+.page-header nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  background: #200122;
+  background: -webkit-linear-gradient(to right, #6f0000, #200122);
+  background: linear-gradient(to right, #6f0000, #200122);
+}
+
+/* .adjuster {
+  height: 100px;
+} */
+
+.brand-name p {
+  font-size: 2rem;
+  margin: 0 1rem;
+  font-family: "Rock Salt", cursive;
+  color: #d1754f;
+  display: inline-flex;
+  transition: 0.3s ease-in-out;
+}
+.brand-name {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  color: #f2b354;
+  padding: 10px;
+}
+
+.brand-name-home {
+  text-decoration: none;
+  color: #000;
+  font-size: 2rem;
+  color: inherit;
+  transition: 0.3s ease-in-out;
+}
+
+.navbar-items {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: auto;
+  list-style: none;
+  padding-left: 0;
+}
+
+.navbar-item {
+  text-decoration: none;
+  color: #000;
+  font-size: 1.5rem;
+  padding: 15px;
+  color: #fff;
+  transition: 0.3s ease-in-out;
+}
+
+.navbar-item-order {
+  border-radius: 50px;
+  margin-left: 50px;
+  background-color: #5d1e3d;
+}
+
+.active {
+  color: #f2b354;
+}
+.navbar-item:hover,
+.navbar-item:active {
+  color: #f2b354;
+  transition: 0.3s ease-in-out;
+}
+
+.navbar-item-order:hover {
+  background-color: #5d1e3e65;
+}
+
+@media screen and (max-width: 560px) {
+  .brand-name-home {
+    font-size: 1.5rem;
+  }
+  .navbar-items {
+    display: flex;
+    width: 100%;
+  }
+
+  .navbar-item {
+    font-size: 1.1rem;
+    padding: 8px;
+  }
+
+  .navbar-item-order {
+    margin: 0px;
+  }
+
+  /* .adjuster {
+    height: 30vh;
+  } */
+} ;

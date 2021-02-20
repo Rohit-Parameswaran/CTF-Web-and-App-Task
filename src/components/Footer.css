@@ -1,0 +1,49 @@
+.footer-bar {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-items: center;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 10%;
+  background: #200122;
+  background: -webkit-linear-gradient(to right, #6f0000, #200122);
+  background: linear-gradient(to right, #6f0000, #200122);
+  color: #fff;
+}
+
+.footer-bar .icons {
+  display: flex;
+  width: fit-content;
+  margin: 10px 0;
+}
+
+.icons a:hover {
+  color: #f2b354;
+  transition: 0.5s ease;
+}
+
+.footer-bar a {
+  color: #fff;
+  font-size: 1.5rem;
+  padding: 0 20px;
+  transition: 0.5s ease;
+}
+
+.copyrights {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.copyrights i {
+  margin: 0 10px;
+  font-weight: lighter;
+}
+
+@media screen and (max-width: 560 px) {
+  .copyrights {
+    width: 100%;
+  }
+}
